@@ -144,4 +144,4 @@ MIT License
 
 ## Maintainer
 
-Lewis
+Jimmy
