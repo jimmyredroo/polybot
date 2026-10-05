@@ -1,6 +1,6 @@
 # Polymarket Insider Trading Detector
 
-A Python-based monitoring system that detects potentially suspicious trading activity on Polymarket by analyzing wallet behavior patterns. Inspired by Discord bots that successfully flagged suspicious betting activity hours before major events.
+A Python-based monitoring system that detects potentially suspicious trading activity on Polymarket by analysing wallet behavior patterns. Inspired by Discord bots that successfully flagged suspicious betting activity hours before major events.
 
 ## Overview
 
