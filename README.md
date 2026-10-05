@@ -60,7 +60,7 @@ The highest-confidence alerts meet all six criteria:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/polymarket-insider-detector.git
+git clone https://github.com/jimmyredroo/polymarket-insider-detector.git
 cd polymarket-insider-detector
 
 # Install dependencies
